@@ -1,0 +1,6 @@
+                                                       Activate outline for JavaScript
+------------------------------------------------------------------------------------------------------------------------------------------
+Install 'Tern' from eclipse marketplace.
+Convert JS project to Tern project. (R.click on project -> configure -> convert to tern project)
+Window -> show view -> other -> Tern Outline
+------------------------------------------------------------------------------------------------------------------------------------------
